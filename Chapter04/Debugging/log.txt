@@ -1,0 +1,5 @@
+Trace Says, I am Listening
+Debug Says, I am Listening
+Trace error
+Trace warning
+Trace information
